@@ -1,0 +1,1 @@
+Move notas baixadas automaticamente para a pasta modelo alterdata para serem importadas automaticamente e apos serem importadas retiramos as pastas criadas pelo alterdata para não influenciar a proxima rotina automatica
